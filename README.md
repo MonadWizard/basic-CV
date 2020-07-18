@@ -1,0 +1,1 @@
+basic cv blog make by HTML. CSS. Javascript.....etc
