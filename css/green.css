@@ -385,7 +385,7 @@ ul.works li img:hover {
 }
 
 img.portrait {
-	background-image:url(../images/frame.jpg);
+	/* background-image:url(../images/frame.jpg); */
 	background-repeat: no-repeat;
 	width:109px;
 	height:109px;
