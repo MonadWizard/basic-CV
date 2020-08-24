@@ -2,7 +2,7 @@
 
 // CHANGE THE VARIABLES BELOW
 
-$EmailFrom = "rakibhasanrakib8@gmail.com";
+$EmailFrom = $Email;
 $EmailTo = "monad.wizard.r@gmail.com";
 $Subject = "Contact Form Submission";
 
